@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc4bc9bd0ceb0754b950ff5bcb55cb5c
+timeCreated: 1466569064
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pinBall: {fileID: 109636, guid: 27304c3b37aa7c14eb1b9a959a708f8d, type: 2}
+  - PU_Squash: {fileID: 161796, guid: 15a2d93ef29809240a59bcaab541cbab, type: 2}
+  - PU_Rubber: {fileID: 136756, guid: fe7928913c51c074497ed9eb5329da85, type: 2}
+  - original: {fileID: 2100000, guid: 72eef0fcd5b75e64c8070dba777e9b47, type: 2}
+  - squash: {fileID: 2100000, guid: 15b3707d05a854e4aa4eed89b2ff26cf, type: 2}
+  - rubber: {fileID: 2100000, guid: 15b3707d05a854e4aa4eed89b2ff26cf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

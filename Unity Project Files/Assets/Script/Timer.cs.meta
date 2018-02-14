@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 75d80143f9fd6c1419fbad67ea113c5b
+timeCreated: 1466569082
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - counterText: {fileID: 11428444, guid: 3ff805e5c2ed4574f8027e536db561cf, type: 2}
+  - P1_Score: {fileID: 11432790, guid: 34d363c277eee9c4ca1f711470891efd, type: 2}
+  - P2_Score: {fileID: 11447382, guid: 6e3d8f71c569685478c26c2eaee180fa, type: 2}
+  - pinBall: {fileID: 109636, guid: 27304c3b37aa7c14eb1b9a959a708f8d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

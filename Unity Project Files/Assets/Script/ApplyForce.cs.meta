@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5ae217f8752c564baaea9522d2b7747
+timeCreated: 1466568905
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - p1RFlipper: {fileID: 111332, guid: f49ca87eee9e46d40b22ac989f2ab699, type: 2}
+  - p1LFlipper: {fileID: 100870, guid: 6fc765a8e811afc4d82119b99b403f13, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

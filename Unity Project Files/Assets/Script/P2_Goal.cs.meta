@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e60b9ee9cc8037347a1ce41e195d87c4
+timeCreated: 1466569023
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pinBall: {fileID: 109636, guid: 27304c3b37aa7c14eb1b9a959a708f8d, type: 2}
+  - p1Score: {fileID: 11432790, guid: 34d363c277eee9c4ca1f711470891efd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
